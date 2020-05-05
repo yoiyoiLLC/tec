@@ -2258,12 +2258,12 @@ body {
 }
 .cid-rY1DvGKU7S .navbar {
   padding: .5rem 0;
-  background: #073b4c;
+  background: #000000;
   transition: none;
   min-height: 77px;
 }
 .cid-rY1DvGKU7S .navbar-dropdown.bg-color.transparent.opened {
-  background: #073b4c;
+  background: #000000;
 }
 .cid-rY1DvGKU7S a {
   font-style: normal;
@@ -2351,7 +2351,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rY1DvGKU7S .dropdown .dropdown-menu {
-  background: #073b4c;
+  background: #000000;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2422,7 +2422,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-rY1DvGKU7S button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
